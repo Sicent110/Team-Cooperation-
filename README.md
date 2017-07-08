@@ -1,6 +1,10 @@
 # Team-Cooperation-
 仿teambition的团队协作应用
 
+前端使用bootstrap 、后端使用Codeigniter 简单构建的单页面应用
+
+***
+
 ![](snapshots/1.png)
 
 ![](snapshots/2.png)
